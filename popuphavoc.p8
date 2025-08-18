@@ -1,7 +1,8 @@
 pico-8 cartridge // http://www.pico-8.com
 version 42
 __lua__
--- MAIN
+--popup havoc
+--by butcheredpossum
 function _init()
 	--CART DATA
 	cartdata("butcheredpossum_popupgame_1")
