@@ -6,7 +6,7 @@
 
 ## 🎮 HOW TO PLAY 
 
-🐭 - Interact with popups and files
+Mouse - Interact with popups and files
 
 Earn points by closing popups using your mouse. You can also download virusus from harmful popups to earn more points per popup ,but if you get to **greedy** then you might find yourself unable to close the popups fast enough to keep them from crashing your game. There are also popups that will explode taking a chunk of your points and popups with temporary multipliers so be on the lookout for them.
 
@@ -14,7 +14,7 @@ Earn points by closing popups using your mouse. You can also download virusus fr
 
 ## 📍 WHERE TO PLAY  
 
-You can play **POPUP HAVOC** by either downloading this project and putting the .p8 file in your PICO-8 carts folder or by going to it's itch.io/lexaloffle page
+You can play **POPUP HAVOC** by either downloading this project and putting the .p8 file in your PICO-8 carts folder or by going to it's [itch.io](https://github.com/ButcheredPossum/PopupHavoc)**/**[lexaloffle](https://github.com/ButcheredPossum/PopupHavoc) page
 
 ---
 
