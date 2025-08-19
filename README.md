@@ -7,7 +7,7 @@
 
 Mouse 🐭 - Interact with popups and files
 
-### POPUPS 
+Earn points by closing popups using your mouse. You can also download virusus from harmful popups to earn more points per popup ,but if you get to greedy then you might find yourself unable to close the popups fast enough to keep them from crashing your game. There are also popups that will explode taking a chunk of your points and popups with temporary multipliers so be on the lookout for them.
 
 ---
 
