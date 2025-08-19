@@ -3,7 +3,25 @@
 
 ---
 
-## 📄 Licencja
+## 🎮 HOW TO PLAY
+
+Mouse 🐭 - Interact with popups and files
+
+
+
+---
+
+## 📄 CREDITS
+
+Game Design, Programming, Art:
+ButcheredPossum
+
+Music:
+???????????????
+
+---
+
+## 📄 LICENSE
 
 This project is avaible under the MIT license – see file [LICENSE](./LICENSE) for more information.
 
