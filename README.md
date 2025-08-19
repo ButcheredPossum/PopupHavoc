@@ -14,7 +14,7 @@ Earn points by closing popups using your mouse. You can also download virusus fr
 
 ## 📍 WHERE TO PLAY  
 
-You can play **POPUP HAVOC** by either downloading this project and putting the .p8 file in your PICO-8 carts folder or by going to it's <br>
+You can play **POPUP HAVOC** by either downloading this project and putting the .p8 file in your PICO-8 carts folder or by going to it's 
 [itch.io](https://github.com/ButcheredPossum/PopupHavoc) **/** [lexaloffle](https://github.com/ButcheredPossum/PopupHavoc) page
 
 ---
